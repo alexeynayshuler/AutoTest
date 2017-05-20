@@ -1,0 +1,1303 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var: Unattached inode 320515
+
+
+
+
+
+var: UNEXPECTED INCONSISTENCY; RUN fsck MANUALLY.
+
+	(i.e., without -a or -p options)
+
+var contains a file system with errors, check forced.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var: Unattached inode 320515
+
+
+
+
+
+var: UNEXPECTED INCONSISTENCY; RUN fsck MANUALLY.
+
+	(i.e., without -a or -p options)
+
+/etc/rc3.d/S05mount: line 255: [: -ne: unary operator expected
+
+/dev/sdb1: recovering journal
+
+/dev/sdb1: clean, 95/3670016 files, 186625/7327640 blocks
+
+Bringing up loopback interface:  [  OK  ]
+
+dosfsck 2.11, 12 Mar 2005, FAT32, LFN
+
+Logical sector size is zero.
+
+mount: /dev/sdb1 already mounted or /mnt/cf busy
+
+mount: according to mtab, /dev/sdb1 is already mounted on /mnt/cf
+
+cat: /proc/ide/sdb/model: No such file or directory
+
+Starting starting_application:  [  OK  ]
+
+Starting sshd: [  OK  ]
+
+
+Using image already on disk...
+
+8820
+
+ERROR: Module e1000 does not exist in /proc/modules
+
+pid 4873's current affinity mask: ffffffffff
+
+pid 4873's new affinity mask: 1
+
+Setting up Applog directory...
+
+400+0 records in
+
+400+0 records out
+
+409600 bytes (410 kB) copied, 0.000719054 seconds, 570 MB/s
+
+mke2fs 1.39 (29-May-2006)
+
+cache_dev.bin is not a block special device.
+
+Proceed anyway? (y,n) Filesystem label=
+
+OS type: Linux
+
+Block size=1024 (log=0)
+
+Fragment size=1024 (log=0)
+
+56 inodes, 400 blocks
+
+20 blocks (5.00%) reserved for the super user
+
+First data block=1
+
+Maximum filesystem blocks=524288
+
+1 block group
+
+8192 blocks per group, 8192 fragments per group
+
+56 inodes per group
+
+
+
+Writing inode tables: 0/1done                            
+
+Writing superblocks and filesystem accounting information: done
+
+
+
+This filesystem will be automatically checked every 20 mounts or
+
+180 days, whichever comes first.  Use tune2fs -c or -i to override.
+
+__________________________________________________
+
+Running ADC Application...
+
+
+
+Continue
+
+
+__________________________________________________
+
+Enabling console logs...
+
+
+
+Continue
+
+
+
+
+Detecting Cavium devices...
+
+Loading Cavium 35XX[60G[[0;32m  OK  [0;39m]modprobe - OK
+
+
+
+File: ../microcode/boot_mc2_n3.out
+
+	Version = CNN35x-MC-Boot-0002
+
+	Code length = 14044	Data length = 200
+
+0: name=../microcode/boot_mc2_n3.out, index=0, core=0
+
+File: ../microcode/main_ssl2_n3.out
+
+	Version = CNN35x-MC-SSL-0019
+
+	Code length = 63700	Data length = 448
+
+1: name=../microcode/main_ssl2_n3.out, index=1, core=0
+
+Microcode Load Succeed
+
+
+
+File: ../microcode/boot_mc2_n3.out
+
+	Version = CNN35x-MC-Boot-0002
+
+	Code length = 14044	Data length = 200
+
+0: name=../microcode/boot_mc2_n3.out, index=0, core=0
+
+File: ../microcode/main_ssl2_n3.out
+
+	Version = CNN35x-MC-SSL-0019
+
+	Code length = 63700	Data length = 448
+
+1: name=../microcode/main_ssl2_n3.out, index=1, core=0
+
+Microcode Load Succeed
+
+
+
+File: ../microcode/boot_mc2_n3.out
+
+	Version = CNN35x-MC-Boot-0002
+
+	Code length = 14044	Data length = 200
+
+0: name=../microcode/boot_mc2_n3.out, index=0, core=0
+
+File: ../microcode/main_ssl2_n3.out
+
+	Version = CNN35x-MC-SSL-0019
+
+	Code length = 63700	Data length = 448
+
+1: name=../microcode/main_ssl2_n3.out, index=1, core=0
+
+Microcode Load Succeed
+
+csp init - OK
+
+Loading Cavium compression driver[60G[[0;32m  OK  [0;39m]modprobe ZIP - OK
+
+
+
+Current Watcher_restart is: ena
+
+
+
+ RAM DISK creation....
+
+done
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Platform BSP
+
+---------------------------------------------------------
+
+CPU			Intel Xeon ES ECPU frequency:		3000 MHz
+
+Installed memory:	131072 M
+
+
+
+
+
+
+
+default bios read
+
+BIOS version:		0633.009
+
+Active BIOS:		Main
+
+---------------------------------------------------------
+
+BSP Version:		00.03.15
+
+Creation date:		Jan 23 2017, 15:47:01
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+
+
+ODS scripts exec: Exec Path does not point to CF 
+
+Network Driver: 11.85.01 RELEASE VERSION HW context (Mar 22 2017 - 15:00:57)
+
+Start new thread <sockMonThread>Start new thread <switchMsgThread>
+
+mount: you must specify the filesystem type
+
+cp: cannot stat `/mnt/pznr/OEM/*': No such file or directory
+
+umount: /mnt/pznr: not mounted
+
+mp:logger registration failed!!! 
+
+mp:logger registration failed!!! 
+
+
+
+------------------------------      HW monitor started(Created Jan 23 2017, 15:47:04)
+
+------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++<I> [May 03 17:10:32] ND> Network Driver: 11.85.01 RELEASE VERSION Admin (Mar 27 2017 - 16:34:13)
+
+
+
++<D> [May 03 17:10:32] ND> Start new thread <sockMonThread> - [../../../undNetworkDriver/mecongNasLinux/sockLib.c:1284]
+
++<D> [May 03 17:10:32] ND> Start new thread <adminMsgThread> - [adminInterface.c:98]
+
+
+
+Base MAC Address = 2C:B6:93:22:1E:00
+
+
+
+Disable SSH daemon...
+
+Stopping sshd: [60G[[0;32m  OK  [0;39m]
+
+Starting SPs...(flag_no_sps=0)
+
+
+
+BackTrace.c:1377 main - max_num_procs = 39
+
+BackTrace.c:1400 main - numSps = 38
+
+bcmSwFfpSystemInit: call genSwMacDrvMacRuleTransSystemInithwDriversInit: init MAC's, call genSwMacDrvCreate
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+Master is waiting for 38 slaves...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Create
+d:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:
+      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+Netw
+ork Driver: 11.85.01 RELEASE VERSION SP (Mar 15 2017 - 10:38:30)
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+------------------------
+---------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:3
+3
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+BSP Version:  00.03.15 
+
+Created:      Jan 23 2017, 15:47:33
+
+---------------------------------------------------------
+
+
+
+Slave 0 is waiting for master...macDrvIpcSync: semget waited in slave 0 for 0 secSlave 0 synched with MasterNetwork Driver: 11.85.01 RELEASE VERSION SP (Mar 15 2017 - 10:38:30)
+
+Slave 30 is waiting for master...macDr
+vIpcSync: semget waited in slave 30 for 0 secSlave 30 synched with MasterNetwork Driver: 11.85.01 RELEASE VERSION SP (Mar 15 2017 - 10:38:30)
+
+Slave 28 is waiting for master...macDrvIpcSync: semget waited in slave 28 for 0 secSlave 28 synched with MasterNetwork Driver: 11.85.01 RELEASE VERSION SP (Mar 15 2017 - 10:38:30)
+
+Slave 12 is waiting for master...macDrvIpcSync: semget waited in slave 12 for 0 secSlave 12 synched with MasterNetwork Driver: 11.85.01 RELEASE VERSION SP (Mar 15 2017 - 10:38:30)
+
+Slave 37 is waiting for master...macDrvIpcSync: semget waited in slave 37 for 0 secSlave 37 synched with MasterNetwork Driver: 11.85.01 RELEASE VERSION SP (Mar 15 2017 - 10:38:30)
+
+Slave 18 is waiting for master...macDrvIpcSync: semget waited in slave 18 for 0 secSlave 18 synched with MasterNetwork Driver: 11.85.01 RELEASE VERSION SP (Mar 15 2017 - 10:38:30)
+
+Slave 13 is waiting for master...macDrvIpcSync: semget waited in slave 13 for 0 secSlave 13 synched with MasterNetwork Driver: 11.85.01 RELEASE VERSION SP (M
+ar 15 2017 - 10:38:30)
+
+Slave 1 is waiting for master...macDrvIpcSync: semget waited in slave 1 for 0 secSlave 1 synched with MasterNetwork Driver: 11.85.01 RELEASE VERSION SP (Mar 15 2017 - 10:38:30)
+
+Slave 33 is waiting for master...macDrvIpcSync: semget waited in slave 33 for 0 secSlave 33 synched with MasterNetwork Driver: 11.85.01 RELEASE VERSION SP (Mar 15 2017 - 10:38:30)
+
+Slave 4 is waiting for master...macDrvIpcSync: semget waited in slave 4 for 0 secSlave 4 synched with MasterNetwork Driver: 11.85.01 RELEASE VERSION SP (Mar 15 2017 - 10:38:30)
+
+Slave 7 is waiting for master...macDrvIpcSync: semget waited in slave 7 for 0 secSlave 7 synched with MasterNetwork Driver: 11.85.01 RELEASE VERSION SP (Mar 15 2017 - 10:38:30)
+
+Slave 15 is waiting for master...macDrvIpcSync: semget waited in slave 15 for 0 secSlave 15 synched with MasterNetwork Driver: 11.85.01 RELEASE VERSION SP (Mar 15 2017 - 10:38:30)
+
+Slave 31 is waiting for master...macDrvIpcSync: semget waited in slave 31 for 0 secSlave 31 synched with Master
+
+Network Driver: 11.85.01 RELEASE VERSION SP (Mar 15 2017 - 10:38:30)
+
+Slave 8 is waiting for master...macDrvIpcSync: semget waited in slave 8 for 0 secSlave 8 synched with MasterNetwork Driver: 11.85.01 RELEASE VERSION SP (Mar 15 2017 - 10:38:30)
+
+Slave 6 is waiting for master...macDrvIpcSync: semget waited in slave 6 for 0 secSlave 6 synched with MasterNetwork Driver: 11.85.01 RELEASE VERSION SP (Mar 15 2017 - 10:38:30)
+
+Network Driver: 11.85.01 RELEASE VERSION SP (Mar 15 2017 - 10:38:30)
+
+Network Driver: 11.85.01 RELEASE VERSION SP (Mar 15 2017 - 10:38:30)
+
+Network Driver: 11.85.01 RELEASE VERSION SP (Mar 15 2017 - 10:38:30)
+
+Network Driver: 11.85.01 RELEASE VERSION SP (Mar 15 2017 - 10:38:30)
+
+Network Driver: 11.85.01 RELEASE VERSION SP (Mar 15 2017 - 10:38:30)
+
+Network Driver: 11.85.01 RELEASE VERSION SP (Mar 15 2017 - 10:38:30)
+
+Network Driver: 11.85.01 RELEASE VERSION SP (Mar 15 2017 - 10:38:30)
+
+Network Driver: 11.85.01 RELEASE VERSION SP (Mar 15 2017 - 10:38:30)
+
+Network Driver: 11.85.01 RELEASE VERSI
+ON SP (Mar 15 2017 - 10:38:30)
+
+Network Driver: 11.85.01 RELEASE VERSION SP (Mar 15 2017 - 10:38:30)
+
+Network Driver: 11.85.01 RELEASE VERSION SP (Mar 15 2017 - 10:38:30)
+
+Slave 36 is waiting for master...Slave 19 is waiting for master...macDrvIpcSync: semget waited in slave 24 for 0 secmacDrvIpcSync: semget waited in slave 32 for 0 secSlave 9 is waiting for master...macDrvIpcSync: semget waited in slave 9 for 0 secSlave 20 is waiting for master...macDrvIpcSync: semget waited in slave 20 for 0 secSlave 32 synched with MasterSlave 19 synched with MasterSlave 35 is waiting for master...macDrvIpcSync: semget waited in slave 25 for 0 secmacDrvIpcSync: semget waited in slave 17 for 0 secmacDrvIpcSync: semget waited in slave 23 for 0 secSlave 9 synched with MasterSlave 5 is waiting for master...Slave 2 is waiting for master...Slave 34 synched with MastermacDrvIpcSync: semget waited in slave 11 for 0 secSlave 25 synched with MastermacDrvIpcSync: semget waited in slave 26 for 0 secSlave 17 synched with MasterSlave 22 synched with MasterSlave 14 synched with MasterSlave 23 synched with MasterSlave 16 synched with MasterSlave 2 synched with MasterSlave 10 synched with MasterSlave 11 synched with MasterSlave 26 synched with MasterMaster synched with 38 slavesSDK version: 6.4.9DMA memory: phys=0x60000000, virt=0xf57e2000, size=16777216PCI unit 0: Dev 0xb860, Rev 0x02, Chip BCM56860_A1, Driver BCM56860_A0
+
+PCI unit 1: Dev 0xb846, Rev 0x02, Chip BCM56846_A1, Driver BCM56840_B0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alteon Application Switch 8820XL
+
+
+
+SP 1 is ready and waiting.
+
+SP 2 is ready and waiting.
+
+SP 3 is ready and waiting.
+
+SP 4 is ready and waiting.
+
+SP 5 is ready and waiting.
+
+SP 6 is ready and waiting.
+
+SP 7 is ready and waiting.
+
+SP 8 is ready and waiting.
+
+SP 9 is ready and waiting.
+
+SP 10 is ready and waiting.
+
+SP 11 is ready and waiting.
+
+SP 12 is ready and waiting.
+
+SP 13 is ready and waiting.
+
+SP 14 is ready and waiting.
+
+SP 15 is ready and waiting.
+
+SP 16 is ready and waiting.
+
+SP 17 is ready and waiting.
+
+SP 18 is ready and waiting.
+
+SP 19 is ready and waiting.
+
+SP 20 is ready and waiting.
+
+SP 21 is ready and waiting.
+
+SP 22 is ready and waiting.
+
+SP 23 is ready and waiting.
+
+SP 24 is ready and waiting.
+
+SP 25 is ready and waiting.
+
+SP 26 is ready and waiting.
+
+SP 27 is ready and waiting.
+
+SP 28 is ready and waiting.
+
+SP 29 is ready and waiting.
+
+SP 30 is ready and waiting.
+
+SP 31 is ready and waiting.
+
+SP 32 is ready and waiting.
+
+SP 33 is ready and waiting.
+
+SP 34 is ready and waiting.
+
+SP 35 is ready and waiting.
+
+SP 36 is ready and waiting.
+
+SP 37 is ready and waiting.
+
+SP 38 is ready and waiting.
+
+   #
+
+  # #    #        #####  ######   ####   #    #
+
+ #   #   #          #    #       #    #  ##   #
+
+#     #  #          #    #####   #    #  # #  #
+
+#######  #          #    #       #    #  #  # #
+
+#     #  #          #    #       #    #  #   ##
+
+#     #  ######     #    ######   ####   #    #
+
+Rebooted because of power cycle.
+
+
+
+********************************************************
+
+*       M A I N T E N A N C E     M O D E              *
+
+********************************************************
+
+
+
+Type "maint" and press "Enter" to initiate:
+
+
+
+
+
+
+
+
+
+Timeout
+
+Booting complete 17:11:45 Wed May  3, 2017:
+
+  Version 31.0.1.0 from image ID 1, active config block.
+
+
+
+Start Dispatcher Loop !!!
+
+
+
+Verify the inactive BIOS bank
+
+
+
+
+
+
+
+
+reads default BIOS secondery
+
+
+
+MP maxGroupCnt = 32, maxRuleCntPerGroup=16384 totalRules=512 totalCountersNum=128
+
+
+
+MP macDrvFlowInitConfig :GROUP 0 created
+
+selectorBm=0x38
+
+May  3 17:11:53 NOTICE  main thread: temperature ok
+
+
+
+May  3 17:11:53 NOTICE  main thread: All fans are operational
+
+
+
+May  3 17:11:53 NOTICE  main thread: Dual Power Supply Status: OK.
+
+
+
+
+Applying Configuration....
+..
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enter password: 
+

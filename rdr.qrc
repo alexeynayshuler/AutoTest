@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/rdr">
+        <file>Radware-Logo.jpg</file>
+    </qresource>
+</RCC>

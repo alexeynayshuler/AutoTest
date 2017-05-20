@@ -1,0 +1,8 @@
+Device info :  Platform- ODSMR Application- DefensePro 
+MAC: 2c:b6:93:37:04:c0  
+Version: dp-8.13.00  
+Reboot Test: True  Result: PASS 1 Cycles 
+ShutDown Test: False  Result: ---  Cycles 
+SSL Test: False  Result: ---  Cycles 
+Last State Test: False  Result: ---  Cycles  
+Reason: not tested 

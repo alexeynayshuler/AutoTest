@@ -1,0 +1,8 @@
+Device info :  Platform- ODSHTQ Application- Alteon 
+MAC: 00:03:B2:EC:7E:00  
+Version: Alteon-30.5.0.0  
+Reboot Test: True  Result: PASS 1 Cycles 
+ShutDown Test: False  Result: ---  Cycles 
+SSL Test: False  Result: ---  Cycles 
+Last State Test: True  Result: PASS 2 Cycles  
+ Reason: [['Test1', 'PASS', 0], ['Test2', 'PASS', 0], ['Test3', 'PASS', 0], ['Test4', 'PASS', 0], ['Test5', 'PASS', 0], ['Test6', 'PASS', 0]] 

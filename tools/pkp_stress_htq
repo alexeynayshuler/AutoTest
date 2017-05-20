@@ -1,0 +1,63 @@
+#!/bin/bash
+
+function usage()
+{
+    echo "Usage $0 <loops> <device 0|1|2|all>" 
+    exit 1
+}
+
+
+function run()
+{
+    echo -n "[$i] [$@] "
+    date
+    echo 1 > /proc/cavium/data_stats_reset
+    "$@" 
+    if [ $? -ne 0 ]
+    then 
+        echo "Test ended with failure!!! Exiting..."
+        exit 1
+    fi
+    cat /proc/cavium/data_stats
+}
+
+i=0
+
+[[ $# -ne 2 ]] && usage
+
+
+device=$2
+
+while [ $i -lt $1 ]; do
+
+    i=$((i+1))
+
+#    echo AHA test...
+#     run ./ahazip363 -f=/var/bin/peregrine -o=/dev/null -pt=4096
+#    grep aha /proc/interrupts
+
+    for something in $(seq 1 7); do
+	 run /disk/pkp_test -m rsa -p4 -x 360 -d $device -r 1000
+    done
+
+    for block in 1 100 1024 2048 4096 10240 16384; do
+	run /disk/pkp_test -m 3des -p4 -x 360 -d $device -B $block -r 500
+	run /disk/pkp_test -m rc4 -p4 -x 360 -d $device -B $block -r 500
+	run /disk/pkp_test -m aes -p4 -x 360 -d $device -B $block -r 500
+	run /disk/pkp_test -m aes -A128 -p4 -x 360 -d $device -B $block -r 500 
+    done
+
+#   run /disk/pkp_test -m ctx -C -x 360 -r 5000   // not for N3 card
+
+    run /disk/pkp_test -m alloc_ctx -p 4 -d $device -x 20000
+
+    run /disk/pkp_test -m random -p 4 -d $device -r 2800
+
+done
+
+echo "Test finished successfully!!!"
+sleep 5
+cd /disk/tools
+"./radware_test_hw"
+echo "radware_test_hw"
+exit 0

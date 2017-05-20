@@ -1,0 +1,8 @@
+Device info :  Platform- ODSVL2 Application- Alteon 
+MAC: 2C:B6:93:27:67:00  
+Version: Alteon-30.5.0.0  
+Reboot Test: True  Result: PASS 1 Cycles 
+ShutDown Test: False  Result: ---  Cycles 
+SSL Test: True  Result: PASS 7 Cycles 
+Last State Test: False  Result: ---  Cycles  
+Reason: not tested 
